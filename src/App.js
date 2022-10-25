@@ -1,10 +1,10 @@
 import { useState } from "react";
 import logo from "./assets/images/logo-chemian.svg";
 import logoIcon from "./assets/images/logo-icon-chemian.svg"
-import { Animated } from 'react-animated-css'
-import { getAllCategories, getCategoryClassName, GetCategoryClassName } from "./services/categories";
+import { getAllCategories, getCategoryClassName } from "./services/categories";
 import { getAllElements } from "./services/element";
 import Element from "./components/Element";
+import { Slide } from "react-reveal";
 
 function App() {
 	const [panel, setPanel] = useState({
@@ -100,11 +100,17 @@ function App() {
 					</section>
 				</main>
 			</div>
-			<Animated animationIn="slideInUp" animationOut="slideOutDown" isVisible={panel.active}>
-				<div className="fixed bottom-0 left-0 p-10 w-full h-96 bg-white rounded-t-xl shadow-md">
+
+			<Slide bottom collapse when={panel.active}>
+				<div className="fixed w-full h-96 bottom-0 left-0">
+					<div className="relative p-10 w-full h-full bg-white rounded-t-xl shadow-md">
+						<button onClick={() => setPanel({...panel, active : false})} className="absolute -top-5 left-1/2 transform -translate-x-1/2 w-20 text-center text-xs bg-white rounded-full p-2 shadow-md">
+							&times; Close
+						</button>
+					</div>
 					<img src={logoIcon} alt="Loading" width={100} className="mx-auto mt-20 animate-spin" />
 				</div>
-			</Animated>
+			</Slide>
         </div>
     );
 }
