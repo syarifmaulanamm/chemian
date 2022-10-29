@@ -1,0 +1,11 @@
+[
+    {
+        "name"  : "Air",
+        "otherName" : "Dihidrogen Monoksida",
+        "formula" : "H<sub>2</sub>O",
+        "elements" : ["H", "O"],
+        "molar" : "18,0153 g/mol",
+        "description" : "Air adalah senyawa yang penting bagi semua bentuk kehidupan yang diketahui sampai saat ini di Bumi,[1][2][3] tetapi tidak di planet lain.[4] Rumus kimianya adalah H2O, yang setiap molekulnya mengandung satu oksigen dan dua atom hidrogen yang dihubungkan oleh ikatan kovalen. Air menutupi hampir 71% permukaan Bumi. Terdapat 1,4 triliun kilometer kubik (330 juta mil³) air tersedia di Bumi.[5] Air sebagian besar dapat ditemukan di laut (air asin) dan pada lapisan-lapisan es (di kutub dan puncak-puncak gunung). Selain itu, air juga dapat ditemukan di awan, hujan, sungai, permukaan air tawar, danau, uap air, dan lautan es. Air dalam objek-objek tersebut berpindah mengikuti suatu siklus air, yaitu: melalui penguapan, hujan, dan aliran air di atas permukaan tanah (runoff, meliputi mata air, sungai, muara) menuju laut. Air bersih penting bagi kehidupan manusia.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Air"
+    }
+]
