@@ -7,5 +7,473 @@
         "molar" : "18,0153 g/mol",
         "description" : "Air adalah senyawa yang penting bagi semua bentuk kehidupan yang diketahui sampai saat ini di Bumi,[1][2][3] tetapi tidak di planet lain.[4] Rumus kimianya adalah H2O, yang setiap molekulnya mengandung satu oksigen dan dua atom hidrogen yang dihubungkan oleh ikatan kovalen. Air menutupi hampir 71% permukaan Bumi. Terdapat 1,4 triliun kilometer kubik (330 juta mil³) air tersedia di Bumi.[5] Air sebagian besar dapat ditemukan di laut (air asin) dan pada lapisan-lapisan es (di kutub dan puncak-puncak gunung). Selain itu, air juga dapat ditemukan di awan, hujan, sungai, permukaan air tawar, danau, uap air, dan lautan es. Air dalam objek-objek tersebut berpindah mengikuti suatu siklus air, yaitu: melalui penguapan, hujan, dan aliran air di atas permukaan tanah (runoff, meliputi mata air, sungai, muara) menuju laut. Air bersih penting bagi kehidupan manusia.",
         "wikipedia" : "https://id.wikipedia.org/wiki/Air"
+    },
+    {
+        "name"  : "Karbon monoksida",
+        "otherName" : "Karbonat oksida",
+        "formula" : "CO",
+        "elements" : ["C", "O"],
+        "molar" : "28,0101 g/mol",
+        "description" : "Karbon monoksida, rumus kimia CO, adalah gas yang tak berwarna, tak berbau, dan tak berasa. Ia terdiri dari satu atom karbon yang secara kovalen berikatan dengan satu atom oksigen. Dalam ikatan ini, terdapat dua ikatan kovalen dan satu ikatan kovalen koordinasi antara atom karbon dan oksigen. Karbon monoksida dihasilkan dari pembakaran tak sempurna dari senyawa karbon, sering terjadi pada mesin pembakaran dalam. Karbon monoksida terbentuk apabila terdapat kekurangan oksigen dalam proses pembakaran. Karbon monoksida mudah terbakar dan menghasilkan lidah api berwarna biru, menghasilkan karbon dioksida. Walaupun ia bersifat racun, CO memainkan peran yang penting dalam teknologi modern, yakni merupakan prekursor banyak senyawa karbon.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Karbon_monoksida"
+    },
+    {
+        "name"  : "Silikon karbida",
+        "otherName" : "Carborundum, Moissanite",
+        "formula" : "SiC",
+        "elements" : ["Si", "C"],
+        "molar" : "40,10 g/mol",
+        "description" : "'Silikon karbida' ('SiC'), dikenal juga sebagai carborundum, adalah senyawa silikon dan karbon dengan rumus kimia SiC. Ia terjadi di alam sebagai mineral yang sangat langka moissanite. Serbuk silikon karbida sintetis telah diproduksi massal sejak 1893 untuk digunakan sebagai abrasif. Butiran silikon karbida dapat disatukan dengan cara sintering membentuk keramik yang sangat keras yang banyak digunakan pada aplikasi yang memerlukan daya tahan tinggi, seperti rem mobil, kopling mobil dan pelat trauma untuk rompi anti peluru. Aplikasi elektronik silikon karbida seperti untuk Light-Emitting Diode, (LED) dan detektor dalam radio-radio awal yang pertama kali didemonstrasikan pada sekitar tahun 1907. SiC digunakan sebagai semikonduktor dalam modul elektronik yang beroperasi pada suhu tinggi dan/atau tegangan tinggi. Kristal tunggal besar silikon karbida dapat tumbuh dengan metode Lely; mereka dapat dipotong menjadi batu permata yang dikenal sebagai moissanite sintetis. Silikon karbida dengan area permukaan tinggi dapat diproduksi dari SiO2 yang terkandung dalam bahan tanaman.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Silikon_karbida"
+    },
+    {
+        "name"  : "Sianogen",
+        "otherName" : "Karbon nitrit, Oksalonitril",
+        "formula" : "CN<sub>2</sub>",
+        "elements" : ["C", "N"],
+        "molar" : "52,04 g/mol",
+        "description" : "Sianogen adalah senyawa kimia dengan rumus (CN)2. Senyawa ini berbentuk gas tidak berwarna yang bersifat racun dengan bau yang tajam. Senyawa ini termasuk golongan pseudohalogen. Molekul sianogen terdiri dari 2 gugus CN – dua gugus siano ini terhubung pada atom karbon mereka: N≡C−C≡N.[4] Beberapa turunan sianogen juga disebut sianogen meskipun senyawa-senyawa ini hanya memiliki satu gugus CN. Misalnya, sianogen bromida mempunyai rumus kimia NCBr.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Sianogen"
+    },
+    {
+        "name"  : "Ion helium hidrida",
+        "otherName" : "Hidridohelium",
+        "formula" : "HeH<sup>+</sup>",
+        "elements" : ["He", "H"],
+        "molar" : "5,01 g/mol",
+        "description" : "Ion helium hidrida atau hidrohelium(1+), dengan rumus kimia HeH+, adalah ion positif yang terbentuk sebagai hasil reaksi proton dengan atom helium dalam fase gas. Ion ini pertama kali dibuat di laboratorium pada 1925, dan bersifat isoelektron (memiliki struktur dan jumlah elekton valensi yang sama) dengan molekul hidrogen (H2). Ion ini merupakan asam terkuat yang diketahui saat ini, dengan afinitas proton 177.8 kJ/mol.[3] Sejak 1970, muncul hipotesis bahwa HeH+ seharusnya dapat terbentuk secara alamiah di medium antarbintang. Laporan deteksi pertama yang tidak diragukan lagi terjadi pada 2019.[4][5] Ion ini merupakan ion heteronuklir (ion dengan dua unsur berbeda) yang paling sederhana. Jika dibandingkan dengan ion H2+, ion ini memiliki momen dipol permanen, sehingga lebih mudah dikarakterisasi dengan spektroskopi.[6] Menurut perhitungan, momen dipol HeH+ adalah 2,26 atau 2,84",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Ion_helium_hidrida"
+    },
+    {
+        "name"  : "Asam Klorida",
+        "otherName" : "Hidrogen klorida",
+        "formula" : "HCl",
+        "elements" : ["H", "Cl"],
+        "molar" : "36,4606 g/mol",
+        "description" : "Senyawa hidrogen klorida mempunyai rumus HCl. Pada suhu kamar, HCl adalah gas tidak berwarna yang membentuk kabut putih Asam klorida ketika melakukan kontak dengan kelembaban udara. Gas hidrogen klorida dan asam klorida adalah senyawa yang penting dalam bidang teknologi dan industri. Rumus HCl sering kali, walaupun tidak tepat, ditulis untuk merujuk pada asam klorida.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Hidrogen_klorida"
+    },
+    {
+        "name"  : "Hidrogen fluorida",
+        "otherName" : "Fluorane",
+        "formula" : "HF",
+        "elements" : ["H", "F"],
+        "molar" : "20,01 g/mol",
+        "description" : "Hidrogen fluorida adalah senyawa kimia dengan rumus kimia HF. Senyawa ini merupakan gas atau cairan tidak berwarna dan merupakan sumber utama dari industri fluor, biasanya sebagai larutan encer yang disebut asam fluorida. Maka senyawa ini adalah prekursor banyak senyawa penting seperti obat-obatan dan polimer (misalnya Teflon). HF digunakan secara luas dalam industri petrokimia sebagai komponen superasam. Hidrogen fluorida menguap pada suhu kamar, jauh lebih tinggi dibandingkan hidrogen halida lainnya. Tidak seperti hidrogen halida lain, HF lebih ringan dari udara.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Hidrogen_fluorida"
+    },
+    {
+        "name"  : "Kalium klorida",
+        "otherName" : "Potassium chlride",
+        "formula" : "KCl",
+        "elements" : ["K", "Cl"],
+        "molar" : "74.5513 g/mol",
+        "description" : "Kalium klorida (singkatan: KCl; bahasa Inggris: potassium chloride) adalah senyawa garam alkali tanah dengan halida yang terbentuk dari unsur kalium dan klor. Wujud umumnya adalah garam kristal berwarna putih atau tak berwarna. Senyawa ini sangat mudah larut dalam air dan terasa asin di lidah, serupa garam dapur. Kegunaannya yang paling luas adalah untuk pupuk kimia, sebagai infus dalam pengobatan, reaktan dalam laboratorum, pengolahan makanan, dan sebagai salah satu dari tiga senyawa untuk eksekusi mati menggunakan injeksi.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Kalium_klorida"
+    },
+    {
+        "name"  : "Silikon nitrida",
+        "otherName" : "Nierite",
+        "formula" : "Si<sub>3</sub>N<sub>4</sub>",
+        "elements" : ["Si", "N"],
+        "molar" : "140,28 g/mol",
+        "description" : "Silikon nitrida adalah senyawa kimia dari unsur silikon dan nitrogen, dengan rumus Si. Ini adalah padatan putih dengan titik lebur tinggi yang relatif inert secara kimiawi. Ia dapat diserang oleh HF encer dan H panas. Si sangat keras (8,5 pada skala Mohs). Ini adalah nitrida silikon yang paling stabil secara termodinamika dari. Oleh karena itu, Si adalah nitrida silikon yang paling penting secara komersial dan umumnya dipahami sebagai apa yang disebut di mana istilah silikon nitrida digunakan.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Silikon_nitrida"
+    },
+    {
+        "name"  : "Natrium klorida",
+        "otherName" : "garam dapur",
+        "formula" : "NaCl",
+        "elements" : ["Na", "Cl"],
+        "molar" : "58.443 g/mol",
+        "description" : "Natrium klorida, juga dikenal dengan garam dapur, atau halit, adalah senyawa kimia dengan rumus molekul NaCl, mewakili perbandingan 1:1 ion natrium dan klorida. Dengan massa molar masing-masing 22,99 dan 35,45 g/mol, 100 g NaCl mengandung 39,34 g Na dan 60,66 g Cl. Senyawa ini adalah garam yang paling memengaruhi salinitas laut dan cairan ekstraselular pada banyak organisme multiseluler. Sebagai komponen utama pada garam dapur, natrium klorida sering digunakan sebagai bumbu dan pengawet makanan. Sejumlah besar natrium klorida digunakan dalam banyak proses industri, dan merupakan sumber utama senyawa natrium dan klorin yang digunakan sebagai bahan baku untuk sintesis kimia lebih lanjut. Aplikasi utama kedua natrium klorida adalah untuk menghilangkan lapisan jalan pada cuaca sub-beku.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Natrium_klorida"
+    },
+    {
+        "name"  : "Natrium iodida",
+        "otherName" : "NaI",
+        "formula" : "NaI",
+        "elements" : ["Na", "I"],
+        "molar" : "149.89 g/mol",
+        "description" : "Natrium iodida adalah senyawa kimia dengan rumus NaI. Senyawa ini terbentuk dari reaksi logam natrium dengan iodin. Dalam kondisi standar, senyawa ini merupakan senyawa padat berwarna putih yang dapat larut dalam air. Natrium iodida dan kalium iodida sering digunakan untuk mencegah dan mengobati kekurangan iodin. Garam meja yang teriodinisasi mengandung 0 ppm iodida.[3] Natrium iodida juga digunakan untuk mengubah alkil klorida menjadi alkil iodida. Metode ini (yang disebut reaksi Finkelstein)[4] bergantung pada fakta bahwa natrium klorida tidak dapat larut dalam aseton untuk memicu reaksi ini",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Natrium_iodida"
+    },
+    {
+        "name"  : "Aluminium hidroksida",
+        "otherName" : "Aluminium(3+) trioksidanida",
+        "formula" : "Al(OH)<sub>3</sub>",
+        "elements" : ["Al", "O","H"],
+        "molar" : "78.00 g/mol",
+        "description" : "Aluminium hidroksida adalah suatu senyawa kimia dengan rumus kimia Al(OH)3, ditemukan di alam sebagai mineral gibbsite (dikenal pula sebagai hydrargillite) dan tiga polimorfnya yang langka: bayerit, doyleit, dan nordstrandit. Aluminium hidroksida bersifat amfoterik di alam, yaitu, senyawa ini memiliki sifat asam dan basa. Senyawa terkait yang berhubungan dengan senyawa ini seperti aluminium oksida hidroksida, AlO(OH), dan aluminium oksida atau alumina (Al2O3), yang terakhir juga bersifat amfoterik. Senyawa ini bersama-sama merupakan komponen utama dari bijih bauksit aluminium.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Aluminium_hidroksida"
+    },
+    {
+        "name"  : "Karbon dioksida",
+        "otherName" : "zat asam arang, gas asam karbonat",
+        "formula" : "CO<sub>2</sub>",
+        "elements" : ["C", "O"],
+        "molar" : "44,0095 g/mol",
+        "description" : "Karbon dioksida (rumus kimia: CO2) atau zat asam arang adalah sejenis senyawa kimia yang terdiri dari dua atom oksigen yang terikat secara kovalen dengan sebuah atom karbon. Ia berbentuk gas pada keadaan temperatur dan tekanan standar dan hadir di atmosfer bumi. Rata-rata konsentrasi karbon dioksida di atmosfer bumi pada Maret 2022 adalah 417 ppm berdasarkan volume, dibandingkan dengan konsentrasi pra-industri 280 ppm. Karbon dioksida adalah gas rumah kaca yang penting karena ia menyerap gelombang inframerah dengan kuat.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Karbon_dioksida"
+    },
+    {
+        "name"  : "Dikarbon monoksida",
+        "otherName" : "Dikarbon monoksida",
+        "formula" : "C<sub>2</sub>O",
+        "elements" : ["C", "O"],
+        "molar" : "40,02 g/mol",
+        "description" : "Dikarbon monoksida (C<sub>2</sub>O) merupakan sebuah molekul yang sangat reaktif yang mengandung dua atom karbon dan satu atom oksigen. Ia berikatan kovalen. Ia merupakan zat antara pada fotolisis karbon suboksida. Ia berhubungan dekat dengan karbon monoksida, karbon dioksida, karbon suboksida, dan oksida-oksida karbon lainnya.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Dikarbon_monoksida"
+    },
+    {
+        "name"  : "Hidrogen sianida",
+        "otherName" : "Asam Sianida",
+        "formula" : "HCN",
+        "elements" : ["H", "C", "N"],
+        "molar" : "27,03 g/mol",
+        "description" : "Hidrogen sianida (HCN) (juga dikenal sebagai Asam Sianida) adalah senyawa anorganik  dengan rumus molekul HCN. Senyawa ini berbentuk cairan tak berwarna, dan sangat beracun, dengan titik didih sedikit di atas suhu ruangan, 256 °C (493 °F).  HCN diproduksi dalam skala industri dan sangat bernilai karena digunakan sebagai bahan baku banyak senyawa kimia mulai polimer sampai obat-obatan.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Hidrogen_sianida"
+    },
+    {
+        "name"  : "Hidrogen sulfida",
+        "otherName" : "Dihidrogen monosulfida",
+        "formula" : "H<sub>2</sub>S",
+        "elements" : ["H", "S"],
+        "molar" : "34,08 g/mol",
+        "description" : "Hidrogen sulfida, H2S, adalah gas yang tidak berwarna, beracun, mudah terbakar dan berbau seperti telur busuk. Gas ini dapat timbul dari aktivitas biologis ketika bakteri mengurai bahan organik dalam keadaan tanpa oksigen (aktivitas anaerobik), seperti di rawa, dan saluran pembuangan kotoran. Gas ini juga muncul pada gas yang timbul dari aktivitas gunung berapi dan gas alam.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Hidrogen_sulfida"
+    },
+    {
+        "name"  : "Hidroperoksil",
+        "otherName" : "Dioxidanyl",
+        "formula" : "HO<sub>2</sub>",
+        "elements" : ["H", "O"],
+        "molar" : "33,01 g/mol",
+        "description" : "Hidroperoksil radikal, juga dikenal sebagai peridroksil radikal, adalah bentuk terprotonasi dari superoksida dengan rumus kimia HO2. Unsur kimia tersebut memainkan peran penting di atmosfer dan biologi sel sebagai unsur kimia oksigen aktif",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Hidroperoksil"
+    },
+    {
+        "name"  : "Ozon",
+        "otherName" : "Trioksigen",
+        "formula" : "O<sub>3</sub>",
+        "elements" : ["O"],
+        "molar" : "47,998 g/mol",
+        "description" : "Ozon (O<sub>3</sub>) adalah molekul anorganik radikal yang terdiri dari tiga atom oksigen yang bersifat oksidator kuat. Secara alamiah, ozon dihasilkan dari molekul dioksigen (O2) pada atmosfer bumi yang berinteraksi dengan sinar ultraviolet atau aktivitas elektrik pada atmosfer.Ozon merupakan oksidator kuat yang berbau tajam dan merupakan bentuk tidak stabil dari oksigen yang terdiri dari tiga atom o",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Ozon"
+    },
+    {
+        "name"  : "Natrium sianida",
+        "otherName" : "NaCN",
+        "formula" : "NaCN",
+        "elements" : ["Na", "C", "N"],
+        "molar" : "49.0072 g/mol",
+        "description" : "Natrium sianida adalah senyawa anorganik dengan rumus NaCN. Senyawa ini merupakan senyawa padat berwarna putih yang dapat larut dalam air. Sianida memiliki afinitas yang tinggi terhadap logam, sehingga senyawa ini sangat beracun. Kegunaan utamanya adalah dalam proses penambangan emas yang memanfaatkan reaktivitasnya yang tinggi dengan logam. Senyawa ini merupakan basa kuat. Jika bereaksi dengan asam, akan terbentuk gas hidrogen sianida yang beracun",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Natrium_sianida"
+    },
+    {
+        "name"  : "Natrium hidroksida",
+        "otherName" : "Soda kaustik",
+        "formula" : "NaOH",
+        "elements" : ["Na", "O", "H"],
+        "molar" : "39,9971 g/mol",
+        "description" : "Natrium hidroksida, juga dikenal sebagai lindi (lye) dan soda kaustik atau soda api,[1][2] adalah suatu senyawa anorganik dengan rumus kimia NaOH. Senyawa ini merupakan senyawa ionik berbentuk padatan putih yang tersusun dari kation natrium Na+ dan anion hidroksida OH−.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Natrium_hidroksida"
+    },
+    {
+        "name"  : "Belerang dioksida",
+        "otherName" : "Belerang anhidrida",
+        "formula" : "SO<sub>2</sub>",
+        "elements" : ["S", "O"],
+        "molar" : "64.066 g/mol",
+        "description" : "Belerang dioksida adalah senyawa kimia dengan rumus SO2. Senyawa ini merupakan gas beracun dengan bau menyengat yang dilepaskan oleh gunung berapi dan beberapa pemrosesan industri. Karena batu bara dan minyak bumi juga mengandung senyawa belerang, hasil pembakarannya juga menghasilkan gas belerang dioksida walaupun senyawa belerangnya telah dipisahkan dulu sebelum dibakar. Oksidasi lanjut dari SO2, dibantu dengan katalis seperti NO2, akan membentuk H2SO4, sehingga akan membentuk hujan asam.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Belerang_dioksida"
+    },
+    {
+        "name"  : "Titanium dioksida",
+        "otherName" : "Titanium(IV) oksida",
+        "formula" : "TiO<sub>2</sub>",
+        "elements" : ["Ti", "O"],
+        "molar" : "79,866 g/mol",
+        "description" : "Titanium dioksida, disebut juga titanium(IV) oksida atau titania, adalah oksida titanium yang muncul secara alami dengan rumus kimia TiO2. Umumnya, senyawa ini didapat dari ilmenit, rutil, dan anatase. Titanium dioksida dimanfaatkan secara luas untuk berbagai keperluan seperti cat, pelindung sinar matahari, dan pewarna makanan. Apabila digunakan sebagai pigmen, senyawa ini disebut putih titanium, Pigment White 6 (PW6), atau CI 77891. Adapun sebagai pewarna makanan, senyawa ini memiliki nomor E E171. Pada tahun 2014, senyawa ini diproduksi sebanyak lebih dari 9 juta metrik ton di seluruh belahan dunia",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Titanium_dioksida"
+    },
+    {
+        "name"  : "Asetilena",
+        "otherName" : "Etuna",
+        "formula" : "C<sub>2</sub>H<sub>2</sub>",
+        "elements" : ["C", "H"],
+        "molar" : "26.0373 g/mol",
+        "description" : "Asetilena (Nama sistematis: etuna) adalah suatu hidrokarbon yang tergolong kepada alkuna, dengan rumus C2H2. Asetilena merupakan alkuna yang paling sederhana, karena hanya terdiri dari dua atom karbon dan dua atom hidrogen. Pada asetilena, kedua karbon terikat melalui ikatan rangkap tiga, dan masing-masing atom karbon memiliki hibridisasi orbital sp untuk ikatan sigma. Hal ini menyebabkan keempat atom pada asetilena terletak pada satu garis lurus, dengan sudut C-C-H sebesar 180°.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Asetilena"
+    },
+    {
+        "name"  : "Amonia",
+        "otherName" : "Hidrogen nitrida",
+        "formula" : "NH<sub>3</sub>",
+        "elements" : ["N", "H"],
+        "molar" : "17.0306 g/mol",
+        "description" : "Amonia adalah senyawa kimia dengan rumus NH3. Biasanya senyawa ini didapati berupa gas dengan bau tajam yang khas (disebut bau amonia). Walaupun amonia memiliki sumbangan penting bagi keberadaan nutrisi di bumi, amonia sendiri adalah senyawa kaustik dan dapat merusak kesehatan. Administrasi Keselamatan dan Kesehatan Pekerjaan Amerika Serikat memberikan batas 15 menit bagi kontak dengan amonia dalam gas berkonsentrasi 35 ppm volum, atau 8 jam untuk 25 ppm volum.[5] Kontak dengan gas amonia berkonsentrasi tinggi dapat menyebabkan kerusakan paru-paru dan bahkan kematian.[5] Sekalipun amonia di AS diatur sebagai gas tak mudah terbakar, amonia masih digolongkan sebagai bahan beracun jika terhirup, dan pengangkutan amonia berjumlah lebih besar dari 3.500 galon (13,248 L) harus disertai surat izin",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Amonia"
+    },
+    {
+        "name"  : "Formaldehida",
+        "otherName" : "formalin, metanal",
+        "formula" : "H<sub>2</sub>CO",
+        "elements" : ["H", "C", "O"],
+        "molar" : "30,03 g/mol",
+        "description" : "Senyawa kimia formaldehida (juga disebut metanal, atau formalin), merupakan aldehida dengan rumus kimia H2CO, yang berbentuknya gas, atau cair yang dikenal sebagai formalin, atau padatan yang dikenal sebagai paraformaldehyde atau trioxane. Formaldehida awalnya disintesis oleh kimiawan Rusia Aleksandr Butlerov tahun 1859, tetapi diidentifikasi oleh Hoffman tahun 1867.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Formaldehida"
+    },
+    {
+        "name"  : "Hidrogen peroksida",
+        "otherName" : "Asam perhidroksat",
+        "formula" : "H<sub>2</sub>O<sub>2</sub>",
+        "elements" : ["H", "O"],
+        "molar" : "34,0147 g/mol",
+        "description" : "Hidrogen peroksida adalah senyawa kimia dengan rumus H2O2. Dalam bentuk murninya, ia berupa cairan bening berwarna biru pucat,sedikit lebih kental daripada air. Hidrogen peroksida adalah peroksida paling sederhana (senyawa dengan ikatan tunggal oksigen–oksigen). H2O2 digunakan sebagai oksidator, zat pemutih, dan antiseptik. Hidrogen peroksida pekat, atau peroksida uji tinggi, adalah spesies oksigen reaktif dan telah digunakan sebagai propelan roket.Sifat kimianya didominasi oleh ketidakstabilan ikatan peroksidanya.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Hidrogen_peroksida"
+    },
+    {
+        "name"  : "Karbon dioksida",
+        "otherName" : "zat asam arang",
+        "formula" : "CO<sub>2</sub>",
+        "elements" : ["C", "O"],
+        "molar" : "44,0095 g/mol",
+        "description" : "Karbon dioksida (rumus kimia: CO2) atau zat asam arang adalah sejenis senyawa kimia yang terdiri dari dua atom oksigen yang terikat secara kovalen dengan sebuah atom karbon. Ia berbentuk gas pada keadaan temperatur dan tekanan standar dan hadir di atmosfer bumi. Rata-rata konsentrasi karbon dioksida di atmosfer bumi pada Maret 2022 adalah 417 ppm berdasarkan volume, dibandingkan dengan konsentrasi pra-industri 280 ppm. Karbon dioksida adalah gas rumah kaca yang penting karena ia menyerap gelombang inframerah dengan kuat.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Karbon_dioksida"
+    },
+    {
+        "name"  : "Hidrogen sianida",
+        "otherName" : "Formonitril",
+        "formula" : "HCN",
+        "elements" : ["H", "C", "N"],
+        "molar" : "27,03 g/mol",
+        "description" : "Hidrogen sianida (HCN) (juga dikenal sebagai Asam Sianida) adalah senyawa anorganik[6] dengan rumus molekul HCN. Senyawa ini berbentuk cairan tak berwarna, dan sangat beracun, dengan titik didih sedikit di atas suhu ruangan, 256 °C (493 °F).[7] HCN diproduksi dalam skala industri dan sangat bernilai karena digunakan sebagai bahan baku banyak senyawa kimia mulai polimer sampai obat-obatan",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Hidrogen_sianida"
+    },
+    {
+        "name"  : "Amonium",
+        "otherName" : "Ammonium",
+        "formula" : "NH",
+        "elements" : ["N", "H"],
+        "molar" : "18,04 g/mol",
+        "description" : "Kation amonium adalah ion poliatomik bermuatan positif dengan rumus kimia NH.[1] Ia terbentuk melalui protonasi amonia (NH3). Amonium juga merupakan nama umum untuk amina tersubstitusi melalui protonasi atau bermuatan positif dan kation amonium kuarterner (NR), yang satu atau lebih atom hidrogennya digantikan oleh gugus organik (ditandai dengan lambang R).",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Amonium"
+    },
+    {
+        "name"  : "Sianoasetilena",
+        "otherName" : "Propiolonitrile",
+        "formula" : "C<sub>3</sub>HN",
+        "elements" : ["C", "H", "N"],
+        "molar" : "51,05 g/mol",
+        "description" : "Sianoasetilena adalah senyawa organik dengan rumus C3HN atau H-C≡C-C≡N. Senyawa ini merupakan cyanopolyyne paling sederhana. Dengan menggunakan metode spektroskopik, sianoasetilena telah ditemukan di awan antarbintang,[2] koma komet Hale–Bopp, dan atmosfer bulan Titan.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Sianoasetilena"
+    },
+    {
+        "name"  : "Asam format",
+        "otherName" : "Asam Metanoat",
+        "formula" : "CH<sub>2</sub>O<sub>2</sub>",
+        "elements" : ["C", "H", "O"],
+        "molar" : "46,03 g/mol",
+        "description" : "Asam format atau asam formiat (nama sistematis: asam metanoat) adalah asam karboksilat yang paling sederhana. Asam format secara alami antara lain terdapat pada sengat lebah dan semut, sehingga dikenal pula sebagai asam semut. Asam format merupakan senyawa antara yang penting dalam banyak sintesis bahan kimia. Rumus kimia asam format dapat dituliskan sebagai HCOOH atau CH2O2.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Asam_format"
+    },
+    {
+        "name"  : "Metana",
+        "otherName" : "Karbon tetrahidrida",
+        "formula" : "CH<sub>4</sub>",
+        "elements" : ["C", "H"],
+        "molar" : "16,04 g/mol",
+        "description" : "Metana adalah hidrokarbon paling sederhana yang berbentuk gas dengan rumus kimia CH4. Metana murni tidak berbau, tetapi jika digunakan untuk keperluan komersial, biasanya ditambahkan sedikit bau belerang untuk mendeteksi kebocoran yang mungkin terjadi. Sebagai komponen utama gas alam, metana adalah sumber bahan bakar utama. Pembakaran satu molekul metana dengan oksigen akan melepaskan satu molekul CO2 (karbondioksida) dan dua molekul H2O (air)",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Metana"
+    },
+    {
+        "name"  : "Formaldehida",
+        "otherName" : "formol, metil aldehida, oksida metilena",
+        "formula" : "H<sub>2</sub>CO",
+        "elements" : ["H", "C", "O"],
+        "molar" : "30,03 g/mol",
+        "description" : "Senyawa kimia formaldehida (juga disebut metanal, atau formalin), merupakan aldehida dengan rumus kimia H2CO, yang berbentuknya gas, atau cair yang dikenal sebagai formalin, atau padatan yang dikenal sebagai paraformaldehyde atau trioxane. Formaldehida awalnya disintesis oleh kimiawan Rusia Aleksandr Butlerov tahun 1859, tetapi diidentifikasi oleh Hoffman tahun 1867.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Formaldehida"
+    },
+    {
+        "name"  : "Asetonitril",
+        "otherName" : "Sianometana",
+        "formula" : "CH<sub>3</sub>CN",
+        "elements" : ["C", "H", "N"],
+        "molar" : "41,05 g/mol",
+        "description" : "Asetonitril adalah senyawa kimia dengan rumus CH3CN. Senyawa ini berupa cairan tidak berwarna,merupakan nitril organik yang paling sederhana (hidrogen sianida lebih sederhana, tetapi anion sianida tidak digolongkan sebagai organik). Senyawa ini terutama diproduksi sebagai produk samping dari pembuatan akrilonitril. Senyawa ini digunakan sebagai pelarut polar aprotik dalam sintesis organik dan pemurnian butadiena.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Asetonitril"
+    },
+    {
+        "name"  : "Etena",
+        "otherName" : "Ethene, Etilena",
+        "formula" : "C<sub>2</sub>H<sub>4</sub>",
+        "elements" : ["C", "H"],
+        "molar" : "28.05 g/mol",
+        "description" : "Etena atau etilena adalah senyawa alkena paling sederhana yang terdiri dari empat atom hidrogen dan dua atom karbon yang terhubungkan oleh suatu ikatan rangkap. Karena ikatan rangkap ini, etena disebut pula hidrokarbon tak jenuh atau olefin.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Etena"
+    },
+    {
+        "name"  : "Metanol",
+        "otherName" : "Hidroksimetana, Karbinol",
+        "formula" : "CH<sub>3</sub>OH",
+        "elements" : ["C", "H", "O"],
+        "molar" : "32.04 g/mol",
+        "description" : "Metanol, juga dikenal sebagai metil alkohol, wood alcohol atau spiritus, adalah senyawa kimia dengan rumus kimia CH3OH. Ia merupakan bentuk alkohol paling sederhana. Pada keadaan atmosfer ia berbentuk cairan yang ringan, mudah menguap, tidak berwarna, mudah terbakar, dan beracun dengan bau yang khas (berbau lebih ringan daripada etanol). Metanol digunakan sebagai bahan pendingin anti beku, pelarut, bahan bakar, dan sebagai bahan aditif bagi etanol industri.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Metanol"
+    },
+    {
+        "name"  : "Sianoasetilena",
+        "otherName" : "Prop-2-ynenitrile",
+        "formula" : "C<sub>3</sub>HN ",
+        "elements" : ["C", "H", "N"],
+        "molar" : "51,05 g/mol",
+        "description" : "Sianoasetilena adalah senyawa organik dengan rumus C3HN atau H-C≡C-C≡N. Senyawa ini merupakan cyanopolyyne paling sederhana. Dengan menggunakan metode spektroskopik, sianoasetilena telah ditemukan di awan antarbintang, koma komet Hale–Bopp, dan atmosfer bulan Titan.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Sianoasetilena"
+    },
+    {
+        "name"  : "Asetaldehida",
+        "otherName" : "etanal",
+        "formula" : "C<sub>2</sub>H<sub>4</sub>O",
+        "elements" : ["C", "H", "O"],
+        "molar" : "44,05 g/mol",
+        "description" : "Asetaldehida, atau menurut nama sistematisnya etanal, adalah sebuah senyawa organik dari kelompok aldehida, dengan rumus kimia CH3CHO atau MeCHO. Senyawa ini merupakan cairan mudah terbakar dengan bau buah-buahan. Asetaldehida terdapat dalam buah-buahan dan kopi yang sudah matang, dan roti segar. Senyawa ini dihasilkan oleh tumbuhan dalam metabolisme normalnya. Asetaldehida juga merupakan zat antara dalam produksi asam asetat, beberapa ester, dan zat-zat kimia lainnya.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Asetaldehida"
+    },
+    {
+        "name"  : "Akrilonitril",
+        "otherName" : "Sianoetena",
+        "formula" : "CH<sub>2</sub>CHCN",
+        "elements" : ["C", "H", "N"],
+        "molar" : "53,06 g/mol",
+        "description" : "Akrilonitril adalah sebuah senyawa organik dengan rumus kimia CH2CHCN. Senyawa ini adalah cairan tidak berwarna yang mudah menguap, meskipun sampel komersial dapat menjadi kuning karena kotoran. Dari segi struktur molekul, senyawa ini terdiri dari gugus vinil yang terikat dengan sebuah nitril. Senyawa ini adalah monomer penting untuk pembuatan plastik seperti poliakrilonitril. Senyawa ini reaktif dan beracun pada dosis rendah",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Akrilonitril"
+    },
+    {
+        "name"  : "Etilena oksida",
+        "otherName" : "oksirana",
+        "formula" : "C<sub>2</sub>H<sub>4</sub>O",
+        "elements" : ["C", "H", "O"],
+        "molar" : "44.05 g/mol",
+        "description" : "Etilena oksida, juga dikenal oksirana adalah senyawa organik dengan rumus molekul C2H4O. Senyawa ini berjenis eter siklik. Etilena oksida berbentuk gas tak berwarna mudah terbakar pada suhu ruangan dan berbau manis. Senyawa ini merupakan epoksida paling sederhana: cincin tiga-anggota dengan 1 oksigen dan 2 karbon. Karena struktur molekulnya ini, etilena oksida banyak dipakai pada reaksi adisi, seperti polimerisasi. Etilena oksida berisomer dengan asetaldehida dan vinil alkohol.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Etilena_oksida"
+    },
+    {
+        "name"  : "Propuna",
+        "otherName" : "Metilasetilena",
+        "formula" : "C<sub>3</sub>H<sub>4</sub>",
+        "elements" : ["C", "H"],
+        "molar" : "40.0639 g/mol",
+        "description" : "Propuna (Metilasetilena) adalah alkuna dengan rumus kimia CH3C≡CH. Alkuna ini merupakan komponen gas MAPP, yang biasa digunakan dalam las karbit. Tidak seperti asetilena, propuna dapat dikondensasi dengan aman.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Propuna"
+    },
+    {
+        "name"  : "Metilamina",
+        "otherName" : "Aminometana",
+        "formula" : "CH<sub>3</sub>NH<sub>2</sub>",
+        "elements" : ["C", "H", "N"],
+        "molar" : "31,06 g/mol",
+        "description" : "Metilamina adalah senyawa organik dengan rumus CH3NH2. Gas tak berwarna ini adalah turunan amonia, tetapi dengan satu atom hidrogen digantikan oleh gugus metil. Senyawa ini merupakan amina primer paling sederhana. Senyawa ini dijual sebagai larutan dalam metanol, etanol, tetrahidrofuran, atau air, atau sebagai gas anhidrat dalam wadah logam bertekanan. Dalam industri, metilamina diangkut dalam bentuk anhidratnya dalam gerbong dan truk tangki bertekanan. Senyawa ini memiliki bau yang kuat seperti ikan. Metilamina digunakan sebagai blok pembangun bagi sintesis banyak senyawa yang tersedia secara komersial.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Metilamina"
+    },
+    {
+        "name"  : "Vinil alkohol",
+        "otherName" : "Hidroksietilena",
+        "formula" : "CH<sub>2</sub>CHOH",
+        "elements" : ["C", "H", "O"],
+        "molar" : "44.053 g/mol",
+        "description" : "Vinil alkohol, disebut pula sebagai etenol (nama IUPAC), adalah enol paling sederhana. Dengan rumus CH2CHOH, senyawa ini adalah senyawa labil yang mampu berubah menjadi asetaldehida. Senyawa ini bukan merupakan prekursor pada pembentukan polivinil alkohol.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Vinil_alkohol"
+    },
+    {
+        "name"  : "Asam asetat",
+        "otherName" : "Asam etanoat",
+        "formula" : "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>",
+        "elements" : ["C", "H", "O"],
+        "molar" : "60,05 g/mol",
+        "description" : "Asam asetat, asam etanoat atau asam cuka adalah salah satu senyawa organik yang berada dalam golongan asam alkanoat.[10] Asam cuka memiliki rumus empiris C. Rumus ini sering kali ditulis dalam bentuk CH, CH, atau CH. Asam asetat pekat (disebut asam asetat glasial) adalah cairan higroskopis tak berwarna, dan memiliki titik beku 16,7°C. Asam asetat adalah komponen utama cuka (3–9%) selain air. Asam asetat berasa asam dan berbau menyengat. Selain diproduksi untuk cuka konsumsi rumah tangga, asam asetat juga diproduksi sebagai prekursor untuk senyawa lain seperti polivinil asetat dan selulosa asetat. Meskipun digolongkan sebagai asam lemah, asam asetat pekat bersifat korosif dan dapat menyebabkan iritasi pada kulit.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Asam_asetat"
+    },
+    {
+        "name"  : "Akrolein",
+        "otherName" : "Acraldehyde",
+        "formula" : "C<sub>3</sub>H<sub>4</sub>O",
+        "elements" : ["C", "H", "O"],
+        "molar" : "56,06 g/mol",
+        "description" : "Akrolein atau 2-propenal (bahasa Inggris: Acrolein, Acraldehyde, Acrylic Aldehyde, Allyl Aldehyde, Ethylene Aldehyde) merupakan senyawa aldehid tak jenuh yang paling sederhana. Akrolein banyak terdapat di dalam masakan sebagai produk dari reaksi dehidrasi dari karbohidrat, minyak nabati, lemak dan asam amino dengan pemanasan, tetapi paparan tertinggi akrolein pada manusia tercatat pada kebiasaan merokok. Akrolein juga dihasilkan oleh lintasan metabolisme tubuh melalui lintasan degradasi treonina oleh enzim mieloperoksidase dan degradasi spermina dan spermidina oleh enzim oksidase amina pada masa peradangan atau stres oksidatif. Akrolein kemudian dicerna oleh GSH dan diekskresi ke dalam urin sebagai metabolit asam merkapturat.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Akrolein"
+    },
+    {
+        "name"  : "Etanol",
+        "otherName" : "Etil alkohol; hidroksietana; alkohol;",
+        "formula" : "C<sub>2</sub>H<sub>5</sub>OH",
+        "elements" : ["C", "H", "O"],
+        "molar" : "46,06844 g/mol",
+        "description" : "Etanol, disebut juga etil alkohol, alkohol murni, alkohol absolut, atau alkohol saja, adalah sejenis cairan yang mudah menguap, mudah terbakar, tak berwarna, dan merupakan alkohol yang paling sering digunakan dalam kehidupan sehari-hari. Senyawa ini merupakan obat psikoaktif dan dapat ditemukan pada minuman beralkohol dan termometer modern. Etanol adalah salah satu obat rekreasi yang paling tua. Etanol termasuk ke dalam alkohol rantai tunggal, dengan rumus kimia C2H5OH dan rumus empiris C2H6O. Ia merupakan isomer konstitusional dari dimetil eter. Etanol sering disingkat menjadi EtOH, dengan Et merupakan singkatan dari gugus etil (C2H5).",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Etanol"
+    },
+    {
+        "name"  : "Propionitril",
+        "otherName" : "Sianoetana",
+        "formula" : "C<sub>3</sub>H<sub>5</sub>N",
+        "elements" : ["C", "H", "N"],
+        "molar" : "55,08 g/mol",
+        "description" : "Propionitril, juga dikenal sebagai etil sianida dan propananitril, adalah suatu senyawa organik dengan rumus CH. Ini merupakan nitril alifatik sederhana. Senyawa ini cairan tak berwarna dan dapat larut dalam air. Propionitril digunakan sebagai pelarut dan prekursor terhadap senyawa organik lainnya.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Propionitril"
+    },
+    {
+        "name"  : "Propena",
+        "otherName" : "Propilena",
+        "formula" : "C<sub>3</sub>H<sub>6</sub>",
+        "elements" : ["C", "H"],
+        "molar" : "42,08 g/mol",
+        "description" : "Propena, juga dikenal dengan propilena adalah senyawa organik tak jenuh dengan rumus molekul C3H6. Mempunyai satu ikatan rangkap dua dan merupakan senyawa alkena paling sederhana kedua setelah etena.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Propena"
+    },
+    {
+        "name"  : "Aseton",
+        "otherName" : "propanon",
+        "formula" : "CH<sub>3</sub>COCH<sub>3</sub>",
+        "elements" : ["C", "H", "O"],
+        "molar" : "58,08 g/mol",
+        "description" : "Aseton, juga dikenal sebagai propanon, dimetil keton, 2-propanon, propan-2-on, dimetilformaldehida, dan β-ketopropana, adalah senyawa berbentuk cairan yang tidak berwarna dan mudah terbakar. Ia merupakan keton yang paling sederhana. Aseton larut dalam berbagai perbandingan dengan air, etanol, dietil eter,dll. Ia sendiri juga merupakan pelarut yang penting. Aseton digunakan untuk membuat plastik, serat, obat-obatan, dan senyawa-senyawa kimia lainnya. Selain dimanufaktur secara industri, aseton juga dapat ditemukan secara alami, termasuk pada tubuh manusia dalam kandungan kecil.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Aseton"
+    },
+    {
+        "name"  : "Benzena",
+        "otherName" : "Benzol",
+        "formula" : "C<sub>6</sub>H<sub>6</sub>",
+        "elements" : ["C", "H"],
+        "molar" : "78,11 g/mol",
+        "description" : "Benzena adalah suatu senyawa organik dengan rumus kimia C6H6. Molekul benzena tersusun atas enam atom karbon yang berikatan dalam suatu cincin, dengan satu atom hidrogen yang terikat pada masing-masing atom karbon. Oleh karena benzena hanya mengandung atom karbon dan hidrogen, benzena dikelompokkan sebagai hidrokarbon.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Benzena"
+    },
+    {
+        "name"  : "Bukminsterfulerena",
+        "otherName" : "Bola buki; Fulerena-C60; [60]fulerena",
+        "formula" : "C<sub>60</sub>",
+        "elements" : ["C"],
+        "molar" : "720,66 g/mol",
+        "description" : "Bukminsterfulerena adalah molekul bundar dengan rumus C60. Molekul ini ditemukan pada tahun 1985 oleh Harold Kroto, James Heath, Sean O'Brien, Robert Curl, dan Richard Smalley.[2] Nama bukminsterfulerena berasal dari Richard Buckminster Fuller, yang telah membangun kubah geodesik dengan bentuk yang mirip. Molekul ini merupakan molekul fulerena pertama yang ditemukan, dan juga yang paling banyak ditemui di alam",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Bukminsterfulerena"
+    },
+    {
+        "name"  : "Etilena glikol",
+        "otherName" : "Glikol, Etilen alkohol",
+        "formula" : "C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>",
+        "elements" : ["C", "H", "O"],
+        "molar" : "62,07 g/mol",
+        "description" : "Etilena glikol (Nama IUPAC: 1,2-etanadiol) adalah senyawa organik yang digunakan sebagai bahan mentah dalam pembuatan fiber poliester, industri pabrik, serta polietilena tereftalat (PET) yang digunakan pada botol plastik. Sudah lama senyawa ini dipakai untuk bahan campuran pendingin mesin, karena titik bekunya sangat rendah dan titik didihnya lebih tinggi daripada air. Senyawa ini tak berwarna dan tak berbau.",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Etilena_glikol"
+    },
+    {
+        "name"  : "Pirimidina",
+        "otherName" : "Pyrimidine",
+        "formula" : "C<sub>4</sub>H<sub>4</sub>N<sub>2</sub>",
+        "elements" : ["C", "H", "N"],
+        "molar" : "80.088 g/mol",
+        "description" : "Pirimidina (bahasa Inggris: Pyrimidine) adalah suatu senyawa organik heterosiklik aromatik yang mirip dengan piridina.[2] Satu dari tiga diazina (senyawa heterosiklik enam karbon dengan dua nitrogen pada cincin), mempunyai nitrogen pada posisi 1 dan 3 dalam cincin.[3] Kedua diazina lain adalah pirazina (nitrogen pada posisi 1 dan 4) dan piridazina ( pada posisi 1 dan 2). Dalam asam nukleat, ketiga tipe basa nukleotida merupakan derivat pirimidin yaitu: sitosina (= cytosine) (C), timina (T), dan urasil (U).",
+        "wikipedia" : "https://id.wikipedia.org/wiki/Pirimidina"
     }
 ]
